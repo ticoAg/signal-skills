@@ -1,4 +1,4 @@
-# Reachable Skill
+# Understand Skill
 
 一个面向 AI Agent 的 skill：`signal-codec`。**读懂原始信号，也能生成信号。**
 
